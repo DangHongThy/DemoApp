@@ -9,11 +9,16 @@ using System.Windows.Forms;
 
 namespace demo
 {
-    public partial class Form1 : Form
+    public partial class FrmCoffeeShop : Form
     {
-        public Form1()
+        public FrmCoffeeShop()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
