@@ -18,7 +18,8 @@ namespace demo
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            string user = textBox1.Text;
+            string pass = textBox2.Text;
         }
     }
 }
