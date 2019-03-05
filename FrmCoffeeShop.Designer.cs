@@ -38,7 +38,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Mistral", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.label1.Location = new System.Drawing.Point(102, 22);
+=======
+            this.label1.Location = new System.Drawing.Point(83, 49);
+>>>>>>> master
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(358, 34);
             this.label1.TabIndex = 0;
@@ -46,7 +50,11 @@
             // 
             // button1
             // 
+<<<<<<< HEAD
             this.button1.Location = new System.Drawing.Point(210, 255);
+=======
+            this.button1.Location = new System.Drawing.Point(224, 229);
+>>>>>>> master
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(86, 37);
             this.button1.TabIndex = 1;
@@ -55,14 +63,22 @@
             // 
             // textBox1
             // 
+<<<<<<< HEAD
             this.textBox1.Location = new System.Drawing.Point(196, 90);
+=======
+            this.textBox1.Location = new System.Drawing.Point(142, 102);
+>>>>>>> master
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 22);
             this.textBox1.TabIndex = 2;
             // 
             // textBox2
             // 
+<<<<<<< HEAD
             this.textBox2.Location = new System.Drawing.Point(196, 140);
+=======
+            this.textBox2.Location = new System.Drawing.Point(142, 154);
+>>>>>>> master
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 22);
             this.textBox2.TabIndex = 3;
